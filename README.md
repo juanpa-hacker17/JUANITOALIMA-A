@@ -10,6 +10,7 @@ En este enlace esta la noticia sobre vinicius que es una de las victimas del rac
 ![Imatge d'exemple](VINICIUS.webp)
 ![Imatge d'exemple](BALOTELLI.jpg)
 ![Imatge d'exemple](lebron-james.jpeg)
+![Imatge d'exemple](MENDY.jpeg)
 3. [inicio](https://github.com/juanpa-hacker17/JUANITOALIMA-A)
 
 Podeu ressaltar el text en *cursiva* o **negreta** segons les vostres necessitats.
