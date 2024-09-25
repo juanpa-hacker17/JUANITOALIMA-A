@@ -1,6 +1,5 @@
-# El meu document Markdown
-
-Deportistas importantes a favor del racismo:
+# Futbolandia
+## Deportistas a favor del racismo:
 
 - mario balotelli
 - vinicius junior 
@@ -20,3 +19,4 @@ Podeu ressaltar el text en *cursiva* o **negreta** segons les vostres necessitat
 exemple de funció () {
      // Exemple de codi
 }
+4. [inicio](https://github.com/juanpa-hacker17/JUANITOALIMA-A)
