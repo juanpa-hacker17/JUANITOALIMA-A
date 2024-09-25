@@ -11,6 +11,7 @@ En este enlace esta la noticia sobre vinicius que es una de las victimas del rac
 ![Imatge d'exemple](https://phantom-elmundo.unidadeditorial.es/990a6b5e27d7c712ff42e16825299a91/resize/473/f/webp/assets/multimedia/imagenes/2023/05/22/16847456869289.jpg)
 ![Imatge d'exemple](https://www.nexofin.com/archivos/2023/09/lebron-james.jpeg)
 
+3. [inicio](https://github.com/juanpa-hacker17/JUANITOALIMA-A)
 
 Podeu ressaltar el text en *cursiva* o **negreta** segons les vostres necessitats.
 
